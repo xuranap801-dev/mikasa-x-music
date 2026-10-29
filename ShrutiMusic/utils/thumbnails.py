@@ -40,7 +40,7 @@ CANVAS_W, CANVAS_H = 1320, 760
 
 FONT_REGULAR_PATH = "ShrutiMusic/assets/font2.ttf"
 FONT_BOLD_PATH = "ShrutiMusic/assets/font3.ttf"
-DEFAULT_THUMB = "ShrutiMusic/assets/Mikasa x Music.jpg"
+DEFAULT_THUMB = "ShrutiMusic/assets/Mikasa x Musix.jpg"
 
 
 def wrap_text(draw, text, font, max_width):
@@ -261,7 +261,7 @@ async def gen_thumb(videoid: str):
             title = "ShrutiMusic"
             duration = "Unknown"
             views = "Unknown Views"
-            channel = "Mikasa x Music"
+            channel = "Mikasa x Musix"
         except:
             traceback.print_exc()
             return None

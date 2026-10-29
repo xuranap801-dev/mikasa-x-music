@@ -192,4 +192,4 @@ Nᴇxᴛ ᴄᴏᴜᴘʟᴇs ᴡɪʟʟ ʙᴇ sᴇʟᴇᴄᴛᴇᴅ ᴏɴ {tomorro
             print(f"Error during cleanup: {cleanup_error}")
 
 
-# ❤️ Love From Mikasa x Music 
+# ❤️ Love From Mikasa x Musix 

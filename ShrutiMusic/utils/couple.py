@@ -25,4 +25,4 @@ async def save_couple(cid: int, date: str, couple: dict, img: str):
     coupledb[cid]["img"] = img
 
 
-# ❤️ Love From Mikasa x Music 
+# ❤️ Love From Mikasa x Musix 

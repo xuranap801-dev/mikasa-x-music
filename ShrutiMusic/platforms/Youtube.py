@@ -11,7 +11,7 @@ import aiohttp
 from ShrutiMusic import LOGGER
 
 API_URL = "https://shrutibots.site"
-DOWNLOAD_DIR = "Mikasa x Music6BtojOs3CnEsDOE4sK1z"
+DOWNLOAD_DIR = "Mikasa x Musix6BtojOs3CnEsDOE4sK1z"
 
 
 async def download_song(link: str) -> str:

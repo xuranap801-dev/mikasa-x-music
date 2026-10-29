@@ -114,7 +114,7 @@ create_env() {
     api_hash=$(get_input "API HASH")
     bot_token=$(get_input "BOT TOKEN")
     owner_id=$(get_input "OWNER ID")
-    bot_name=$(get_input "BOT NAME [Mikasa x Music]")
+    bot_name=$(get_input "BOT NAME [Mikasa x Musix]")
     bot_username=$(get_input "BOT USERNAME")
     mongo_db=$(get_input "MONGO DB URI")
     logger=$(get_input "LOG GROUP ID")
@@ -137,7 +137,7 @@ API_ID=$api_id
 API_HASH=$api_hash
 BOT_TOKEN=$bot_token
 OWNER_ID=$owner_id
-BOT_NAME=${bot_name:-Mikasa x Music}
+BOT_NAME=${bot_name:-Mikasa x Musix}
 BOT_USERNAME=$bot_username
 MONGO_DB_URI=$mongo_db
 LOG_GROUP_ID=$logger
@@ -159,7 +159,7 @@ main() {
     clear
     pprint "\n╔════════════════════════════════════╗\n" "cpurple"
     pprint "║                                    ║\n" "cpurple"
-    pprint "║     Mikasa x Music Setup Installer    ║\n" "cpurple"
+    pprint "║     Mikasa x Musix Setup Installer    ║\n" "cpurple"
     pprint "║                                    ║\n" "cpurple"
     pprint "╚════════════════════════════════════╝\n\n" "cpurple"
     

@@ -3325,7 +3325,7 @@ async def send_repo(_, message: Message):
         caption=(
             "<b>✨ ʜᴇʏ ᴅᴇᴀʀ, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴏꜰꜰɪᴄɪᴀʟ ʀᴇᴘᴏꜱɪᴛᴏʀʏ �ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ ✨</b>\n\n"
             "🔗 �ᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ ꜱᴛᴀʀ 🌟 ᴀɴᴅ ꜰᴏʟʟᴏᴡ!\n\n"
-            "🧡 ᴄʀᴇᴅɪᴛꜱ : Mikasa x Music"
+            "🧡 ᴄʀᴇᴅɪᴛꜱ : Mikasa x Musix"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
@@ -3668,9 +3668,9 @@ async def send_repo(_, message: Message):
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
+# 🔗 GitHub : https://github.com/xuranap801-dev/mikasa-x-music
 # 📢 Telegram Channel : configured_support_link
 # ===========================================
 
 
-# ❤️ Love From Mikasa x Music 
+# ❤️ Love From Mikasa x Musix 
