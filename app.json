@@ -1,0 +1,160 @@
+{
+  "name": "Mikasa x Music",
+  "description": "A Telegram music player bot. Fill all deployment secrets and IDs yourself.",
+  "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "musicbot",
+    "pyrogram"
+  ],
+  "env": {
+    "API_ID": {
+      "description": "Your API_ID value",
+      "value": "",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your API_HASH value",
+      "value": "",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Your BOT_TOKEN value",
+      "value": "",
+      "required": true
+    },
+    "MONGO_DB_URI": {
+      "description": "Your MONGO_DB_URI value",
+      "value": "",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Your OWNER_ID value",
+      "value": "",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Your BOT_NAME value",
+      "value": "",
+      "required": true
+    },
+    "BOT_USERNAME": {
+      "description": "Your BOT_USERNAME value",
+      "value": "",
+      "required": true
+    },
+    "STRING_SESSION": {
+      "description": "Your STRING_SESSION value",
+      "value": "",
+      "required": true
+    },
+    "OWNER_USERNAME": {
+      "description": "Optional OWNER_USERNAME value",
+      "value": "",
+      "required": false
+    },
+    "LOG_GROUP_ID": {
+      "description": "Optional LOG_GROUP_ID value",
+      "value": "",
+      "required": false
+    },
+    "SUPPORT_GROUP": {
+      "description": "Optional SUPPORT_GROUP value",
+      "value": "",
+      "required": false
+    },
+    "SUPPORT_CHANNEL": {
+      "description": "Optional SUPPORT_CHANNEL value",
+      "value": "",
+      "required": false
+    },
+    "INSTAGRAM": {
+      "description": "Optional INSTAGRAM value",
+      "value": "",
+      "required": false
+    },
+    "YOUTUBE": {
+      "description": "Optional YOUTUBE value",
+      "value": "",
+      "required": false
+    },
+    "GITHUB": {
+      "description": "Optional GITHUB value",
+      "value": "",
+      "required": false
+    },
+    "DONATE": {
+      "description": "Optional DONATE value",
+      "value": "",
+      "required": false
+    },
+    "PRIVACY_LINK": {
+      "description": "Optional PRIVACY_LINK value",
+      "value": "",
+      "required": false
+    },
+    "START_IMG_URL": {
+      "description": "Optional START_IMG_URL value",
+      "value": "",
+      "required": false
+    },
+    "UPSTREAM_REPO": {
+      "description": "Optional UPSTREAM_REPO value",
+      "value": "",
+      "required": false
+    },
+    "UPSTREAM_BRANCH": {
+      "description": "Optional UPSTREAM_BRANCH value",
+      "value": "",
+      "required": false
+    },
+    "GIT_TOKEN": {
+      "description": "Optional GIT_TOKEN value",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_API_KEY": {
+      "description": "Optional HEROKU_API_KEY value",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Optional HEROKU_APP_NAME value",
+      "value": "",
+      "required": false
+    },
+    "STRING_SESSION2": {
+      "description": "Optional STRING_SESSION2 value",
+      "value": "",
+      "required": false
+    },
+    "STRING_SESSION3": {
+      "description": "Optional STRING_SESSION3 value",
+      "value": "",
+      "required": false
+    },
+    "STRING_SESSION4": {
+      "description": "Optional STRING_SESSION4 value",
+      "value": "",
+      "required": false
+    },
+    "STRING_SESSION5": {
+      "description": "Optional STRING_SESSION5 value",
+      "value": "",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ],
+  "stack": "container"
+}
