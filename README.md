@@ -18,9 +18,9 @@
 [![Support Group](https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=telegram)](configured_support_link)
 [![Owner](https://img.shields.io/badge/Owner-black?style=for-the-badge&logo=telegram)](https://t.me/WTF_WhyMeeh)
 
-[![Forks](https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/xuranap801-dev/mikasa-x-music/fork)
-[![Stars](https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/xuranap801-dev/mikasa-x-music/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/xuranap801-dev/mikasa-x-music/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/xuranap801-dev/mikasa-x-music?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/xuranap801-dev/mikasa-x-music/fork)
+[![Stars](https://img.shields.io/github/stars/xuranap801-dev/mikasa-x-music?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/xuranap801-dev/mikasa-x-music/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/xuranap801-dev/mikasa-x-music?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/xuranap801-dev/mikasa-x-music/graphs/contributors)
 
 </div>
 
@@ -279,10 +279,10 @@ bash start
 
 <div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)
-![License](https://img.shields.io/github/license/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/NoxxOP/ShrutiMusic?color=blue&logo=github&logoColor=green&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/xuranap801-dev/mikasa-x-music?color=black&logo=github&logoColor=black&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/xuranap801-dev/mikasa-x-music?color=black&logo=github&logoColor=black&style=for-the-badge)
+![License](https://img.shields.io/github/license/xuranap801-dev/mikasa-x-music?color=black&logo=github&logoColor=black&style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/xuranap801-dev/mikasa-x-music?color=blue&logo=github&logoColor=green&style=for-the-badge)
 
 </div>
 
