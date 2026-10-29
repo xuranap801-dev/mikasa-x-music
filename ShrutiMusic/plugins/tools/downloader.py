@@ -3330,8 +3330,8 @@ async def send_repo(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📂 Management Bot", url="http://github.com/NoxxOP/ShrutiMusic"),
-                    InlineKeyboardButton("📂 Music Bot", url="http://github.com/NoxxOP/ShrutixMusic")
+                    InlineKeyboardButton("📂 Management Bot", url="https://github.com/xuranap801-dev/mikasa-x-music"),
+                    InlineKeyboardButton("📂 Music Bot", url="https://github.com/xuranap801-dev/mikasa-x-music")
                 ]
             ]
         ),
